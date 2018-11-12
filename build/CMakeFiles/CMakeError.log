@@ -1,0 +1,8 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: d:/WorkSpace/C++/CMaketest/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/D:rogram FilesinGWiningw32-make.exe" "cmTC_94032/fast"
+系统找不到指定的文件。
+Generator: execution of make failed. Make command was: "/D:rogram FilesinGWiningw32-make.exe" "cmTC_94032/fast"
+
+

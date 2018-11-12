@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/WorkSpace/C++/CMaketest/Render.h
+Windows.h
+-
+math.h
+-
+thread
+-
+
+D:/WorkSpace/C++/CMaketest/main.cpp
+Render.h
+D:/WorkSpace/C++/CMaketest/Render.h
+

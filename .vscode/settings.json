@@ -1,0 +1,16 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.cmakePath": "cmake",
+    "cmake.configureSettings": {
+        "CMAKE_MAKE_PROGRAM": "D:/Program Files/MinGW/bin/mingw32-make.exe"
+    },
+    "cmake.preferredGenerators": [
+        "MinGW Makefiles"
+    ],
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "cmake.debugConfig": {
+        "miDebuggerPath": "gdb.exe",    // Windows 下指定gdb路径（已添加到PATH）
+        "externalConsole": true,    // 使用外部控制台
+        "stopAtEntry": false    // 在起点处停顿（噢！在这停顿！）
+    },
+}
